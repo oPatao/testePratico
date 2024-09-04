@@ -1,0 +1,15 @@
+C:\Users\ghopp\source\repos\oPatao\testePratico\target\bin\Debug\net8.0\target.exe
+C:\Users\ghopp\source\repos\oPatao\testePratico\target\bin\Debug\net8.0\target.deps.json
+C:\Users\ghopp\source\repos\oPatao\testePratico\target\bin\Debug\net8.0\target.runtimeconfig.json
+C:\Users\ghopp\source\repos\oPatao\testePratico\target\bin\Debug\net8.0\target.dll
+C:\Users\ghopp\source\repos\oPatao\testePratico\target\bin\Debug\net8.0\target.pdb
+C:\Users\ghopp\source\repos\oPatao\testePratico\target\obj\Debug\net8.0\target.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghopp\source\repos\oPatao\testePratico\target\obj\Debug\net8.0\target.AssemblyInfoInputs.cache
+C:\Users\ghopp\source\repos\oPatao\testePratico\target\obj\Debug\net8.0\target.AssemblyInfo.cs
+C:\Users\ghopp\source\repos\oPatao\testePratico\target\obj\Debug\net8.0\target.csproj.CoreCompileInputs.cache
+C:\Users\ghopp\source\repos\oPatao\testePratico\target\obj\Debug\net8.0\target.sourcelink.json
+C:\Users\ghopp\source\repos\oPatao\testePratico\target\obj\Debug\net8.0\target.dll
+C:\Users\ghopp\source\repos\oPatao\testePratico\target\obj\Debug\net8.0\refint\target.dll
+C:\Users\ghopp\source\repos\oPatao\testePratico\target\obj\Debug\net8.0\target.pdb
+C:\Users\ghopp\source\repos\oPatao\testePratico\target\obj\Debug\net8.0\target.genruntimeconfig.cache
+C:\Users\ghopp\source\repos\oPatao\testePratico\target\obj\Debug\net8.0\ref\target.dll
